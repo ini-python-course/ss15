@@ -9,3 +9,7 @@
 * [git - the simple guide](http://rogerdudler.github.io/git-guide)
 * [git cheat sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 * [workflow cheat sheet](http://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
+
+### NumPy
+
+* [NumPy for MATLAB users](http://mathesaurus.sourceforge.net/matlab-numpy.html)
