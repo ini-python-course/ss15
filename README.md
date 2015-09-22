@@ -1,6 +1,8 @@
 # Scientifc Computing with Python
 
-[Official Website](http://www.ini.rub.de/courses/69-Scientific%20Computing%20with%20Python) / [Structure & Concept](https://github.com/ini-python-course/ss15/blob/master/COURSE.md)
+* [Official Website](http://www.ini.rub.de/courses/69-Scientific%20Computing%20with%20Python)
+* [Structure & Concept](https://github.com/ini-python-course/ss15/blob/master/COURSE.md)
+* [Project ideas](https://github.com/ini-python-course/ss15/blob/master/PROJECT_IDEAS.md)
 
 ## Useful references
 
