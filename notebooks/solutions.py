@@ -54,6 +54,49 @@ P+Zv8jMOCpnovZBeyonA52VSG3M1sDTNovZrlIKwnouRuGJbw0ofjX86hfzO1pxAX2gQKR6pO6HV
 7fMC/2J+GJcS76KfuS/90lswvx30HX9rLE1RJ0OWP4zoYpaW3amQQtkcUKkX2IubtdiMSytgAsgm
 nyB5aG4Ah/lGRDHvzusimXbIlTGsB2tbAgeGO7I19ejuW2TIM3BK3QueAspbGxqrBr1gKNerngMP
 LFir+N6CxYPIosppfAsGkjBTqGChCmxQUD4TvjQ="""
+
+solution_regression_1 = """
+Emqqe2H1sGEAbn9lQ/HeC61m2TLnfTVHx6E/3SQmFcoMxDDkEkS7CgonD5Rmw2/giYxBoRJTOYei
+nW4tFPmKEYKc3L84SAMV4AUqM+YR4qeY92/WWFuHtpS84dmFLuaUk4nBaphgWghz6IkfOx9V/jgs
+2mOfNujXWhH0dJzRU8V3+PTtIvqGdKzTgcXFW28aqPT5I23UiP3JPeiofFHKLoWeWVFh/DA5aOMX
++bIJFqVdWHKcZnA3kDJJ4PQQM+muOQ1fME+gvsHuK/2vjeH0wAxk/8fYyqoWiv1W6bCP63inobmx
+E+XYCVf2zp3QMr+SJTb8mOAj84xIOp8+tz7FGA=="""
+
+solution_regression_2 = """
+Emqqe2H1sGEAbn9lQ/HeC61m2TLnfTVHx6E/3SQmFcoMxDDkEkS7CgonD5Rmw2/giYxBoRJTOYei
+nW4tFPmKEYKc3L84SAMV4AUqM+YR4qeY92/WWFuHtpS84dmFLuaUk4nBaphgWghz6IkfOx9V/jgs
+2mOfNujXWhH0dJzRU8V3+PTtIvqGdKzTgcXFW28aqPT5I23UiP3JPeiofFHKLoWeWVFh/DA5aOMX
++bIJFqUsird2l9vOXC/alvzxZHwaCZhaLtGIhMca26uKCV6XV0CsY6q8O9CtYkuyL9ptYrGIT5oG
+eVKUW9ujsSEmWERK3QKg/ewUFSJnDxhpXHOuU75lROF5cyBQ/EZgjZXD2qsrYZSd5s6fThKrVFA4
+l0O2zy0R7OCJk8wnbVqZFy3F75DaHL7nJYUa0ox8lF1VXkb5D451ytikG6pyYif64Tps"""
+
+solution_regression_3 = """
+Emqqe2H1sGEAbn9lQ/HeC61m2TLnfTVHx6E/3SQmFcoMxDDkEkS7CgonD5Rmw2/giYxBoRJTOYei
+nW4tFPmKEYKc3L84SAMV4AUqM+YR4qeY92/WWFuHtpS84dmFLuaUk4nBaphgWghz6IkfOx9V/jgs
+2mOfNujXWhH0dJzRU8V3+PTtIvqGdKzTgcXFW28an+Ndmm8TwZyyVxcJT84pAiQYjoInqYlY625P
+YOIF7yw1Nzjb95Ltwngqlmqy6w7QoOvFiHJS/J+w2cfj27hyZEZ64t47yrkjUTKNjFSR/NmTWc0c
+zZJDfVHZvNn3JIqrZMmWaUoT1oUX5E8mlQImMaCJCSYymNZ4I9RW8jZ06NP1ckOmHSnwCK0yLALk
+xqf/Mxy76xrBD0Z0Y18WWJRUww3nH3o1W096u87IZYkKYK/CJHU1rx/XXKJZIkFu4qDYu2hmcyl0
+JpdKOX4VsT6DB1Wrmg2mp54NGUUTpOiUSN2g1c6XbkXH5+hR+zUMcbbZBGNfSdfzu+ADcvEXMW/1
+F2WdX4F0cqmhvfq2YBwGe6o="""
+
+solution_regression_4 = """
+Emqqe2H1sGEAbn9lQ/HeC61m2TLnfTVHx6E/3SQmFcoMxDDkEkS7CgonD5Rmw2/giYxBoRJTOYei
+nW4tFPmKEYKc3L84SAMV4AUqM+YR4qeY92/WWFuHtpS84dmFLuaUk4nBaphgWghz6IkfOx9V/jtF
+DHVIMhA+U7cJoFEquANG8T7nTtaH0B1bC3pHOMI7YJyC3JpTS7qvh9KdM+ZtBTc1wGTANmFj3X8q
+yK3jWoWLgLAEjYeiKzDsFY41u0zS+KLKMkni85oqwyrbtb/OYWAx7309HsGbveUKG2ei47LYCt1l
+tc8rWnRItz5XOHsaHlqLtzAoco/eGK2nr0KMAiyKt3aX285cL9qW/PFkfBoJmFou0YiExxrbq4oJ
+XpdXQKxjqrw70K1iS7Iv2m1isYhPmgZ5UpRb26OxISZYRErdAqD97BQVImcPGGlcc65T6VDdUqd4
+beB7YNILM9fbJik2f4rB5qeoqHZghtl0hWXPDxmJjxt6u46w2fhXJ1tWI6xT0lkdBXVADNNAXGUT
+VBCRYW0xEmx7wcsFAN7tepe/P0ihincfgt7oC+q32KVEjwjLl3GtOBRG7GL2X8E9og=="""
+
+solution_regression_5 = """
+Emqqe2H1sGEAbn9lQ/HeC61m2TLnfTVHx6E/3SQmFcoMxDDkEkS7CgonD5Rmw2/giYxBoRJTOYei
+nW4tFPmKEYKc3L84SAMV4AUqM+YR4qeY92/WWFuHtpS84dmFLuaUk4nBaphgWghz6IkfOx9V/txj
++hpwMOARshbHnDuMnETiXMZpEJRdQS99SikZmW7e3i21MAuh+MJWfnkJZTClb60SmmJoWSTbMQTu
+jO+8xcPn3nI1MGIBYLNw8129fZPQFhmWDZxgA2Dg4kSXcENtSqes3a+usRzXRCXdp3d2QblkkMmW
+7hcxrvCRNtVscpx9ektWLIUTPSuG7Y25e8djjGVcgbkg2mCVdmhGQVlPo0xXoOEc94Ii/QCXdLcR
+fGxsbkBlKxpc6w8xf+nEw1vosw=="""
     
 
 def _pad16(s):
@@ -116,7 +159,8 @@ def decrypt_solution(encrypted_src, passphrase):
     src = base64.decodestring(encrypted_src)
     src = aes.decrypt(src)
     if src[:3] == 'OK!':
-        print _highlight_source(src[3:])
+        #print _highlight_source(src[3:])
+        print src[3:]
     else:
         print '[wrong passphrase]' 
 
