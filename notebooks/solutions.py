@@ -5,6 +5,42 @@ import imp
 import random
 
 
+solution_list_comprehensions = """
+J+g88N8BH49B8AZAbuAhsngoS73D0IIXs+Hckk2430mdNS7gRaA3vRYcO71g8O0c2b8HVJdmRMQR
+r0DVdOiOH3xn3aT241KX+hP3WSgAIFQ="""
+
+solution_pca_1 = """
+8rNeczFb0AxSRfSp7/7wDbcVWVamC7izGoQzHazFeOpQUGrQ42Pmt9QQDlaGXc6pEgapZED28diU
+u6yNN/imzHPgHVd/x8Laz1eiL5gg+RHqBpceHmWHXtSPIeat05NnIfgbSGwQACDMqgsaDsqeIdt7
+hytkLj8lpi1JdyCQROw="""
+
+solution_pca_2 = """
+sCUN6R//yookpAse5W5op95YzL+2mel1xfGltaiyTaVfm5BvgiI9VwElPoEttfgl1mXdIfmW0wpA
+j+ts6VZAbjH6yP8AcIsFHk94eRlQ8hg="""
+
+solution_pca_3 = """
+bhPGfG3FqRAuKyGlgYAEYReNgMt+MRpHwgCSFi44yZ3y0lXxMZSJhKXEBqHDJlOZxWmOA6D+VnvT
+CJayNjn6lh8lFNc1Tci1oaWGB1Vaok1cKsRva2nvlFN02iW/f2D2XQVIgicvbB8WAkdaOYjLOzEY
+UM+LvKuhc876U4ewJLM="""
+
+solution_pca_4 = """
+32zque8D60ZH8w3udsfOJ1bVA3uSvLpAH3RVpTFG7d4DMlsShOP7oeUMJpG3dpb34d8mPLKi9YIy
+ngQDyq/PPf8RD1yHsKev+icFDb5Q+IzE4Z08aJx8iHAH0tl1FIEAJaZghB+x3hoBVIOiA+7Fa9JA
+H43k/1Qi1l//u3fC63eOQtaSVnxzKiKWEUdD7eXDCmp0eZ2zlRVgex0hgAttR21emC3bC0u3ViwF
+m4Jy1aI="""
+
+solution_pca_5 = """
+9+sLOGyr8z2+jUP6AmujQ/ibm1B+Dkjo9kuxbBCjuY07Jfbkqa0PWxj/SnkIIRaVEvDrJIDyOaYw
+9SA5tXsflZuiIasnIN3aRdQMAiq4/JfHueE6LRNNOWNU1pj/sUQ+"""
+
+solution_pca_6 = """
+YAgePaUxKQvm0uxff4OwBu4Fk+8AnrbWA0auLHXuE50uYm/KX1L/5XqikYr4wY3gIJPdbj7k8V6k
+LNdpmGk2IV8+06WWMmynVHkYjCpajWJ6WpknkyFziiLa0gkS/W84RNadVCmemKxslo8mbMRwz+ns
+MeCaz7l6k0kef+CU/5fQFOGs7kk6h+eal1+/MvjTYgSGRGn/AV7RlgDI+UB71Osve39p0mvDYI0d
+TbXHsiivOr/+KqokvIrE2CXo9rS1tghzmNoCd6ckur/tlY/mzBu4sfJqXzdKSK96fNwubEShf65h
+AUXKAc3Q/3S4jdYqL6H9MVQaYzKrnlQibyvPZ+KEf4qXT4BsdW6eL6O268oYQZ4oxIxVyWhNilbY
+OhVfAFM5kr3YLcDPQte1kcDP0za2d5jlGYgEzB6wa5+Upys="""
+
 solution_profiling = """
 j2DubDEekoKegD/g4oSsAwXbHzHopkNGxOMSmOk9Q2tL6BS0kdLRrSoomA5JnnLI+9QYyaLEJ3dA
 z6P7EPeipk/CnavEWZV8QvUdEu0SDUs2rG6/1ZhOxZ+yz6kZiOjz8ciREgFbVw95Oek/GGlNjCyi
