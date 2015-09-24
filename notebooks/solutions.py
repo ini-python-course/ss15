@@ -5,6 +5,10 @@ import imp
 import random
 
 
+solution_list_comprehensions = """
+J+g88N8BH49B8AZAbuAhsngoS73D0IIXs+Hckk2430mdNS7gRaA3vRYcO71g8O0c2b8HVJdmRMQR
+r0DVdOiOH3xn3aT241KX+hP3WSgAIFQ="""
+
 solution_profiling = """
 j2DubDEekoKegD/g4oSsAwXbHzHopkNGxOMSmOk9Q2tL6BS0kdLRrSoomA5JnnLI+9QYyaLEJ3dA
 z6P7EPeipk/CnavEWZV8QvUdEu0SDUs2rG6/1ZhOxZ+yz6kZiOjz8ciREgFbVw95Oek/GGlNjCyi
