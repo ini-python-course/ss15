@@ -24,7 +24,7 @@ Speaking about evaluation...
 
 ## Grading
 
-Many of you will need an individual grading in the end for your studies. For this grading your project will be considered with respect to the following factors:
+Many of you will need an individual grading in the end for your studies. For this grading, your project will be considered with respect to the following factors:
 
 * **Correctness -** Code works / doesn't work
 * **Documentation -** Helpfull / not or badly documented
