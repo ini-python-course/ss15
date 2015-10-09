@@ -6,9 +6,7 @@ import random
 from PyQt4.QtGui import *
 from matplotlib.animation import FuncAnimation
 from matplotlib.pyplot import fill
-#from qtconsole.mainwindow import background
-#from numpy.core.defchararray import translate
-#from win32console import BACKGROUND_BLUE
+
 
 height = 350
 width =  650
@@ -24,6 +22,7 @@ width =  650
 
 def func(x):
     return 2*x + 1
+    
 
 
 #===============================================================================
@@ -40,14 +39,20 @@ def func(x):
 #===============================================================================
 
         
-           
-                
-def draw():
+                           
+def setup_And_draw():
     input_number = 3
     p = Perceptron(input_number)
-    N = 200                
+    N = 400                
     answer = 1
     training = []
+    
+
+    a = np.linspace(-width, width, 10)
+    b = np.linspace(-height, height, 10)
+    np.vstack((a,b))
+    plt.plot(a, -b, '-')
+    #w =np.random.randn(3)
     for i in range(N):
         x = random.randint(-width/2, width/2)
         y = random.randint(-height/2, height/2)
@@ -55,28 +60,24 @@ def draw():
             answer = -1
         training.append(Training(x, y, answer))
         guess = p.feedForward(training[i].inputs) 
-        w = p.train(training[i].inputs, training[i].a)
-        if (guess > 0):
-            plt.plot(training[i].inputs[0], training[i].inputs[1], 'go') 
+        p.weights += p.train(training[i].inputs, training[i].a)#
+        if (guess > 0 ):
+            plt.plot(training[i].inputs[0]- (width/2) , training[i].inputs[1]- (height/2), 'ro') 
             plt.hold(True)  
-            
+             
         else: 
-            plt.plot(training[i].inputs[0] + (3*width/4), training[i].inputs[1] + (3*height/4), 'r*')
+            plt.plot(training[i].inputs[0]+ (width/2) , training[i].inputs[1]+ (height/2), 'g*')
             plt.hold(True)
+            
+    plt.plot(p.weights, -y*p.weights)
+     
     
-         
-    #===========================================================================
-    # x = np.linspace(0, 99, 100)
-    # y = np.linspace(0, 99, 100)
-    # np.vstack((x,y))
-    # plt.plot(x, -y, '-')
-    #===========================================================================
-    plt.plot(x, -2*x - 1)
-    plt.show() 
-
+    plt.show()
+   
+   
 class Perceptron(object):
    
-    def __init__(self,  N):
+    def __init__(self, N):
 
         self.N = N
         self.weights = np.random.randn(3)
@@ -90,7 +91,7 @@ class Perceptron(object):
         
     def train(self, inputs, desired):  
         #self.weights = np.random.randn(3)
-        self.weights = np.array([0,0,0])
+        #self.weights = np.array([0,0,0])
         c = 0.01
         self.guess = self.feedForward(inputs) 
         self.error = desired - self.guess
@@ -116,8 +117,8 @@ class Training(object):
  
 if __name__ == '__main__':
     
-    p = Perceptron(3)
-    draw()
+    #p = Perceptron(3)
+    setup_And_draw()
 
 
     
