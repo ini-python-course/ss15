@@ -13,8 +13,8 @@
 * [workflow cheat sheet](http://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
 
 ### Python
-* [Python Syntax Cheat Sheet](https://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte) Almost everything about the syntax you need to know to get started.
-* [Python Tutorial](http://www.python-course.eu/course.php) Quite extensive tutorial.
+* [Python Syntax Cheat Sheet](https://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte): Almost everything about the syntax you need to know to get started.
+* [Python Tutorial](http://www.python-course.eu/course.php): Quite extensive tutorial.
 
 ### NumPy
 
