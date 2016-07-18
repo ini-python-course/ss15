@@ -23,7 +23,7 @@
 
 ## IPython notebooks
 
-We prepared a lot of material in the notebook folder. The files there are IPython Notebooks (somewhat like wiki pages where code can be executed interactively). After cloning the repository, you can run them locally on your computer. On Linux run `ipython notebook` to start the server, on the CIP-Pool you'll find the notebook server under *Start -> Anaconda -> Launcher*.
+We prepared a lot of material in the notebook folder. The files there are IPython Notebooks (somewhat like wiki pages where code can be executed interactively). After cloning the repository (run `git clone git@github.com:ini-python-course/ss15.git`), you can run them locally on your computer. On Linux run `ipython notebook` to start the server, on the CIP-Pool you'll find the notebook server under *Start -> Anaconda -> Launcher*.
 
 ### Introductory
 
