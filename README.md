@@ -13,11 +13,12 @@
 * [workflow cheat sheet](http://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
 
 ### Python
-
-* [NumPy tutorial](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html): Especially outstanding is the explanation of *slicing* and *broadcasting* in the [appendix](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html#quick-references).
+* [Python Syntax Cheat Sheet](https://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte) Almost everything about the syntax you need to know to get started.
+* [Python Tutorial](http://www.python-course.eu/course.php) Quite extensive tutorial.
 
 ### NumPy
 
+* [NumPy tutorial](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html): Especially outstanding is the explanation of *slicing* and *broadcasting* in the [appendix](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html#quick-references).
 * [NumPy for MATLAB users](http://mathesaurus.sourceforge.net/matlab-numpy.html)
 
 ## IPython notebooks
