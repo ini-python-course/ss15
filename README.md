@@ -15,6 +15,7 @@
 ### Python
 * [Python Syntax Cheat Sheet](https://ddi.ifi.lmu.de/probestudium/2013/ws-i-3d-programmierung/tutorials/python-referenzkarte): Almost everything about the syntax you need to know to get started.
 * [Python Tutorial](http://www.python-course.eu/course.php): Quite extensive tutorial.
+* [stackoverflow documentation](http://stackoverflow.com/documentation/python/topics): Check out tons of examples sorted for topic on StackOverflow!
 
 ### NumPy
 
